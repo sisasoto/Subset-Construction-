@@ -503,8 +503,6 @@ Besides what the assignment requires (a table in the console, the initial state 
 
 <div align="center">
 
-### 👩‍💻👨‍💻 Made by
-
 **Dilan Acevedo Rivera** · **Simón Santiago Soto Berrio**
 
 🎓 SI2002 · Formal Languages · Professor **Sergio Ramírez Rico**
