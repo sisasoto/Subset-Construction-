@@ -9,7 +9,6 @@
 ![Python](https://img.shields.io/badge/Python-3.13.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-Report-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Graphviz%20WASM-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-25H2-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 
 ![Course](https://img.shields.io/badge/SI2002-Formal%20Languages-15107A?style=for-the-badge)
