@@ -64,7 +64,6 @@
 | 🐍 **Programming language** | **Python 3.13.13** |
 | 📦 **Python libraries** | Only the **standard library** (`sys`, `os`, `re`, `json`, `typing`, `pathlib`, `webbrowser`). No `pip install` needed. |
 | 💻 **Editor** | Visual Studio Code |
-| 🌐 **Web browser (for the HTML)**  |
 ---
 
 <a id="description"></a>
@@ -182,8 +181,7 @@ NFA with **S = {3, 5}**, **F = {1, 4}**, Σ = {a, b} and this Δ:
 ### 6.2 💻 From Visual Studio Code
 
 1. 📂 Open the **project folder**: `File → Open Folder…`. *(Important: the program looks for `input.txt` in the folder it is run from, so you must open the folder and not just a single file.)*
-2. 🐍 Install Microsoft's **Python** extension (recommended) and choose the interpreter: `Ctrl + Shift + P` → **Python: Select Interpreter**.
-3. ▶️ Run it in one of these two ways:
+2. ▶️ Run it in one of these two ways:
 
    **Option A: the ▶ button (Run Python File)**
    Open `main.py` and click the ▶ button in the top-right corner. **`input.txt`** is used by default.
