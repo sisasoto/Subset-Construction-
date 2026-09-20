@@ -86,10 +86,7 @@ Our program, written in **Python**, does the following for every input case:
 <a id="algorithm"></a>
 
 ## 🎥 4. Video Evidence
-
-
-
-
+https://github.com/user-attachments/assets/44dd4794-0b36-49b2-8ba1-71c1799c9ecf
 
 ## 🧠 5. Algorithm explanation
 
