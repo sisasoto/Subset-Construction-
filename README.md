@@ -33,9 +33,8 @@
 | 7 | [📥 How the input is read](#input) |
 | 8 | [🖥️ What is printed to the console](#console) |
 | 9 | [🌐 What the HTML shows](#html) |
-| 10 | [⚠️ Error handling](#errors) |
-| 11 | [✨ Additional features](#extras) |
-| 12 | [🗂️ What each file does](#files) |
+| 10 | [✨ Additional features](#extras) |
+| 11 | [🗂️ What each file does](#files) |
 
 ---
 
@@ -66,9 +65,6 @@
 | 📦 **Python libraries** | Only the **standard library** (`sys`, `os`, `re`, `json`, `typing`, `pathlib`, `webbrowser`). No `pip install` needed. |
 | 💻 **Editor** | Visual Studio Code |
 | 🌐 **Web browser (for the HTML)**  |
-| 🕸️ **Diagrams** | Graphviz `viz.js 3.11.0` (WebAssembly), loaded from a CDN |
-| 🔤 **HTML fonts** | *Outfit* and *JetBrains Mono* (Google Fonts, with fallback fonts) |
-
 ---
 
 <a id="description"></a>
@@ -90,6 +86,7 @@ Our program, written in **Python**, does the following for every input case:
 <a id="algorithm"></a>
 
 ## 🎥 4. Video Evidence
+
 
 
 
@@ -446,29 +443,9 @@ There are also **warnings** (they do not stop the program):
 - 🌐 If the HTML could not be created or the browser could not be opened: `Warning: failed to create the HTML report: …` / `Warning: could not open the browser automatically. Open 'resultado_automata.html' manually.`
 
 ---
-
-<a id="extras"></a>
-
-## ✨ 11. Additional features
-
-Besides what the assignment requires (a table in the console, the initial state and the final states), the project includes:
-
-- 🌐 **Interactive HTML report** with its own design (indigo background, pastel colors, illustrated header).
-- 🕸️ **NFA and DFA diagrams** laid out automatically, with initial states, final states, ∅ and grouped transitions.
-- 🔎 **Zoom, dragging and an enlarged mode** on every diagram.
-- 📋 **NFA and DFA transition tables** in the HTML, with the mapping *DFA state → NFA subset*.
-- 🛡️ **Complete input validation** with error messages that state the case and the line.
-- 📥 **Three ways to provide the input:** a file as an argument, stdin or `input.txt`.
-- 🚀 **Automatic opening** of the HTML in the browser when run from a terminal.
-- 🧼 **Tolerant reader:** accepts blank lines, Windows CRLF, BOM, and commas and extra spaces inside the braces.
-- ⭕ **Edge cases covered:** several initial states, empty initial or final sets (`0`), symbols without transitions and the empty set as a DFA state.
-- 🔢 **Several cases** in a single file.
-
----
-
 <a id="files"></a>
 
-## 🗂️ 12. What each file does
+## 🗂️ 11. What each file does
 
 ### 🌳 Project structure
 
